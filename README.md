@@ -1,20 +1,14 @@
 
 <img align="right" src="https://github.com/DavidMoranchel/DavidMoranchel/blob/master/wave.png">
 
+### Hi there, I'm a software engineer 👋 
+[![Github](https://img.shields.io/github/last-commit/DavidMoranchel/DavidMoranchel)](https://github.com/DavidMoranchel)
 
-### Hi there 👋
+#### Hobbies :heart:
 
-<!--
-**DavidMoranchel/DavidMoranchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Travel :rocket:
+ - Photography :camera_flash:
+ - Learning :pencil2:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Work :hammer: 
+I’m currently working on @aplijobs as a FullStack engineer and at @kodemia as a LeadTeacher
