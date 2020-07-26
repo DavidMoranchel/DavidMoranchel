@@ -1,3 +1,4 @@
+![wave](wave.png)
 ### Hi there 👋
 
 <!--
