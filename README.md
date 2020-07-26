@@ -1,4 +1,4 @@
-![wave](wave.png)
+![wave](./wave.png)
 ### Hi there 👋
 
 <!--
