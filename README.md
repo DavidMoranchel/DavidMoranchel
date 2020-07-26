@@ -1,4 +1,7 @@
-![wave](./wave.png)
+
+<img align="right" src="https://github.com/DavidMoranchel/DavidMoranchel/blob/master/wave.png">
+
+
 ### Hi there 👋
 
 <!--
