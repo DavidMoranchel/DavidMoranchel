@@ -11,4 +11,4 @@
  - Learning :pencil2:
 
 #### Work :hammer: 
-I’m currently working on @aplijobs as a FullStack engineer and at @kodemia as a LeadTeacher.
+I’m currently working on aplijobs as a FullStack engineer and at kodemia as a LeadTeacher.
