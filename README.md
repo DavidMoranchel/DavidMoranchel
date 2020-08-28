@@ -2,7 +2,6 @@
 <img align="right" src="https://github.com/DavidMoranchel/DavidMoranchel/blob/master/wave.png">
 
 ### Hi there, I'm a software engineer 👋 
-[![Github](https://img.shields.io/github/last-commit/DavidMoranchel/DavidMoranchel)](https://github.com/DavidMoranchel)
 
 #### Hobbies :heart:
 
